@@ -1,5 +1,5 @@
 # 16-Bit Interpreter
-This repo implements an [interpreter](https://www.techopedia.com/definition/7793/interpreter) for a 16-bit machine. 
+This repository implements an [interpreter](https://www.techopedia.com/definition/7793/interpreter) for a 16-bit machine. This was my introduction to low-level programming.
 
 The bulk of the project is found in the 'pullet16interpreter' class and header; all other classes (other than the main) are for readability/organization/simplification. The main class' sole purpose is to handle input/output and execution. 
 
