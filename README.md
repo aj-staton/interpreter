@@ -11,7 +11,7 @@ $ ./Aprog adotout4 zzin.txt output_name.txt log_name.txt
   *Notice the lack of a file extension on the argv[1] argument.
   
 ### Credits
-The framework to this code was written by Dr. Duncan A. Buell from the Unversity of South Carolina. The substance of the code is my own. 
+Not all of this repository is my own, original thought. The framework to this code was written by Dr. Duncan A. Buell from the Unversity of South Carolina. The substance to the code is my own. 
 
 
     
